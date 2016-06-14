@@ -1,0 +1,4 @@
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.exe
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.pdb
